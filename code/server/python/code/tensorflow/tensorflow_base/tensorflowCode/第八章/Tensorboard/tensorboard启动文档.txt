@@ -1,0 +1,3 @@
+tensorboard --logdir=logs
+
+open localhost:6006
